@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="locale" content="ja_JP">
+<meta name="url" content="https://yamadagenki.github.io/dk-problems/">
+<meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+<title>Dr.Ken's Problems  | Dr.Kenからの挑戦状</title>
+<meta name="description" content="Dr.Kenから皆さまに送る挑戦状の数々です。貴方はこれが解けるかな？">
+<meta name="keywords" content="">
+<link href="https://yamadagenki.github.io/xushengbo/images/favicon.png" rel="icon" type="image/png" />
+<meta property="og:image" content="https://yamadagenki.github.io/dr-problems/images/ogimage.png">
+<meta property="og:url" content="https://yamadagenki.github.io/dr-problems/">
+<meta property="og:title" content="Dr.Ken's Problems | Dr.Kenからの挑戦状">
+<meta property="og:description" content="Dr.Kenから皆さまに送る挑戦状の数々です。貴方はこれが解けるかな？">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@drken1215">
+<script>
+</script>
+<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+<link href="/dk-problems/stylesheets/site.css" rel="stylesheet" />
+<script src="/dk-problems/javascripts/all.js"></script>
+
+
+  </head>
+  <body>
+    <div class="ui fixed inverted menu">
+  <div class="ui container">
+    <a href="/dk-problems" class="header item">
+      <img src="/dk-problems/images/dk_logo.svg" alt="Dk logo" />
+    </a>
+    <a href="/dk-problems" class="item">Home</a>
+  </div>
+</div>
+
+    <main class="ui main text container">
+      <h1 class="ta-c mb40">Dr.Kenからの挑戦状</h1>
+
+<div class="ui grid">
+</div>
+
+<script>
+$('[data-problem-image]').click(function(){
+  $('.ui.modal').modal('show');
+  $('[data-mtitle]').text($('[data-problem-image]').data('modal-title'))
+  $('[data-mimage]').attr("src", '/images/mushikui/problems/' + $('[data-problem-image]').data('problem-image') + '.svg')
+});
+</script>
+
+<div class="ui modal">
+  <div class="header" data-mtitle>Header</div>
+  <div class="ta-c mt20 pb40">
+    <img src=""  data-mimage="" style="height: 300px;">
+  </div>
+</div>
+
+
+
+    </main>
+    <footer class="mt40">
+  <div class="ui text container">
+    &copy;<span> Shengbo.Xu 2017</span>
+  </div>
+</footer>
+
+  </body>
+</html>

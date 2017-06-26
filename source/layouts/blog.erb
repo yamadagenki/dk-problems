@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <%= partial 'layouts/head_info' %>
+  </head>
+  <body>
+    <%= partial 'layouts/header' %>
+
+    <main class="ui main text container">
+      <h1 class="mb40"><%= current_article.title %></h1>
+
+      <%= yield %>
+
+      <h2>バックナンバー</h2>
+
+      <%= partial 'views/problem' %>
+    </main>
+    <%= partial 'layouts/footer' %>
+  </body>
+</html>

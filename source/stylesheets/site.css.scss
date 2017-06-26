@@ -1,0 +1,34 @@
+@import 'vendor/semantic';
+@import 'trump';
+
+body {
+  background-color: #FFFFFF;
+}
+.ui.menu .item img.logo {
+  margin-right: 1.5em;
+}
+.main.container {
+  margin-top: 5em;
+}
+.ui.footer.segment {
+  margin: 5em 0em 0em;
+  padding: 5em 0em;
+}
+
+.o-problem-image {
+  border: 1px solid #455262;
+  position: relative;
+  cursor: pointer;
+  height: 120px;
+  overflow: hidden;
+  text-align: center;
+  width: 120px;
+  img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: auto;
+    transform: translateX(-50%) translateY(-50%);
+    width: 100%;
+  }
+}

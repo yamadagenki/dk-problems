@@ -1,0 +1,12 @@
+---
+title: 初級編
+date: 2017-06-27
+tags: 虫食い算
+type: mushikui
+problem: "00001"
+difficulty: ★★
+---
+
+<div class="ta-c">
+  <img src="/images/mushikui/answers/00001.svg">
+</div>

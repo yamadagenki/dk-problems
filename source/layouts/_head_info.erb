@@ -1,0 +1,23 @@
+<meta charset="utf-8" />
+<meta name="locale" content="ja_JP">
+<meta name="url" content="https://yamadagenki.github.io/dk-problems/">
+<meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+<title>Dr.Ken's Problems  | <%= current_article.nil? ? 'Dr.Kenからの挑戦状' : current_article.title  %></title>
+<meta name="description" content="Dr.Kenから皆さまに送る挑戦状の数々です。貴方はこれが解けるかな？">
+<meta name="keywords" content="">
+<%= favicon_tag 'https://yamadagenki.github.io/xushengbo/images/favicon.png' %>
+<meta property="og:image" content="https://yamadagenki.github.io/dr-problems/images/ogimage.png">
+<meta property="og:url" content="https://yamadagenki.github.io/dr-problems/">
+<meta property="og:title" content="Dr.Ken's Problems | Dr.Kenからの挑戦状">
+<meta property="og:description" content="Dr.Kenから皆さまに送る挑戦状の数々です。貴方はこれが解けるかな？">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@drken1215">
+<script>
+</script>
+<%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+<%= stylesheet_link_tag :site %>
+<%= javascript_include_tag :all %>
+
