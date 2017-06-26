@@ -5,7 +5,22 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2017-06-25T09:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>初級編</title>
+    <link rel="alternate" href="http://blog.url.com/dk-problems/posts/2017/06/25.html"/>
+    <id>http://blog.url.com/dk-problems/posts/2017/06/25.html</id>
+    <published>2017-06-25T09:00:00+09:00</published>
+    <updated>2017-06-27T00:42:06+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="ta-c"&gt;
+  &lt;img src="/images/mushikui/answers/00001.svg" /&gt;
+&lt;/div&gt;
+</content>
+  </entry>
 </feed>

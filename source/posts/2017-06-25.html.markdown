@@ -1,6 +1,6 @@
 ---
 title: 初級編
-date: 2017-06-27
+date: 2017-06-25
 tags: 虫食い算
 type: mushikui
 problem: "00001"

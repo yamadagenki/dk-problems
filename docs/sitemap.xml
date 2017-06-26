@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/calendar.html</loc>
-  </url>
-  <url>
     <loc>https://yamadagenki.github.io/xushengbo/dk-problems/</loc>
   </url>
   <url>
-    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/tag.html</loc>
+    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/posts/2017/06/25.html</loc>
+  </url>
+  <url>
+    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/tags/.html</loc>
+  </url>
+  <url>
+    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/2017.html</loc>
+  </url>
+  <url>
+    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/2017/06.html</loc>
+  </url>
+  <url>
+    <loc>https://yamadagenki.github.io/xushengbo/dk-problems/2017/06/25.html</loc>
   </url>
 </urlset>
