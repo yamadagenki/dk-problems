@@ -29898,10 +29898,10 @@ body {
   border: 1px solid #455262;
   position: relative;
   cursor: pointer;
-  height: 120px;
   overflow: hidden;
   text-align: center;
-  width: 120px; }
+  width: 90%;
+  height: auto; }
   .o-problem-image img {
     position: absolute;
     top: 50%;
