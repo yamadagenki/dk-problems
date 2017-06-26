@@ -8,5 +8,5 @@ difficulty: ★★
 ---
 
 <div class="ta-c">
-  <img src="/images/mushikui/answers/00001.svg">
+  <img src="/dk-problems/images/mushikui/answers/00001.svg">
 </div>
