@@ -3,84 +3,152 @@
     <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-2" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-3" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-4" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-5" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-6" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-7" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-8" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-9" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-10" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-11" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-12" x="0" y="0" width="40" height="40"></rect>
+        <rect id="path-13" x="0" y="0" width="40" height="40"></rect>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard">
-            <g id="number" transform="translate(140.000000, 20.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">5</tspan>
+            <g id="Group" transform="translate(20.000000, 20.000000)">
+                <g id="blank" transform="translate(120.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">E</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(120.000000, 50.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">O</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(170.000000, 50.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">R</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(220.000000, 50.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">E</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(170.000000, 112.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">E</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(220.000000, 112.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">Y</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(120.000000, 112.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">N</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(70.000000, 112.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">O</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(21.000000, 112.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">M</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(70.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">S</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(170.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">N</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(220.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">D</tspan>
+                    </text>
+                </g>
+                <g id="blank" transform="translate(70.000000, 50.000000)">
+                    <g id="Rectangle">
+                        <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-13"></use>
+                        <rect stroke="#455262" stroke-width="1" x="0.5" y="0.5" width="39" height="39"></rect>
+                    </g>
+                    <text id="1" font-family="HiraKakuPro-W6, Hiragino Kaku Gothic Pro" font-size="36" font-weight="500" letter-spacing="1.99999976" fill="#3C4858">
+                        <tspan x="4" y="34">M</tspan>
+                    </text>
+                </g>
+                <g id="x" transform="translate(20.000000, 50.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.222222" fill="#3C4858" font-weight="bold">
+                    <text id="×">
+                        <tspan x="9" y="38">+</tspan>
+                    </text>
+                </g>
+                <path d="M0,101 L280,101" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <text id="※同じアルファベットには同じ数字が入る" font-family="LucidaGrande-Bold, Lucida Grande" font-size="12" font-weight="bold" letter-spacing="2" fill="#3C4858">
+                    <tspan x="10" y="179">※</tspan>
+                    <tspan x="20.671875" y="179" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">同じアルファベットには同じ数字が入る</tspan>
                 </text>
             </g>
-            <g id="number" transform="translate(140.000000, 70.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">0</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(190.000000, 70.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">8</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(240.000000, 70.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">5</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(190.000000, 132.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">5</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(240.000000, 132.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">2</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(140.000000, 132.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">6</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(90.000000, 132.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">0</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(41.000000, 132.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">1</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(90.000000, 20.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">9</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(190.000000, 20.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">6</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(240.000000, 20.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">7</tspan>
-                </text>
-            </g>
-            <g id="number" transform="translate(90.000000, 70.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                <text id="1">
-                    <tspan x="8" y="34">1</tspan>
-                </text>
-            </g>
-            <g id="x" transform="translate(40.000000, 70.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.222222" fill="#3C4858" font-weight="bold">
-                <text id="×">
-                    <tspan x="9" y="38">+</tspan>
-                </text>
-            </g>
-            <path d="M20,121 L300,121" id="Line" stroke="#979797" stroke-linecap="square"></path>
-            <text id="※同じアルファベットには同じ数字が入る" font-family="LucidaGrande-Bold, Lucida Grande" font-size="12" font-weight="bold" letter-spacing="2" fill="#3C4858">
-                <tspan x="30" y="199">※</tspan>
-                <tspan x="40.671875" y="199" font-family="HiraginoSans-W6, Hiragino Sans" font-weight="500">同じアルファベットには同じ数字が入る</tspan>
-            </text>
         </g>
     </g>
 </svg>
