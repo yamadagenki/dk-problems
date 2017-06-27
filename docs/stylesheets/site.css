@@ -29916,3 +29916,6 @@ body {
 
 .di-n {
   display: none; }
+
+.fb_iframe_widget > span {
+  vertical-align: baseline !important; }
