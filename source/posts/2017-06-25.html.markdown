@@ -7,6 +7,10 @@ problem: "00001"
 difficulty: ★★
 ---
 
+<div class="ta-c mb50">
+  <img src="/dk-problems/images/mushikui/problems/00001.svg">
+</div>
+
 <div class="ta-c">
   <img src="/dk-problems/images/mushikui/answers/00001.svg">
 </div>
