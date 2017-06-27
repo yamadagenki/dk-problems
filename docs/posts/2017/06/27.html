@@ -64,11 +64,11 @@
 
       <div class="ui doubling four column grid">
     <div class="o-problem ta-c column">
-      <img src="/dk-problems/images/mushikui/problems/00002.svg" class="o-problem-image" data-problem-image="00002" data-modal-title="SEND MORE MONEY（難易度：★★★）" alt="SEND MORE MONEY" />
+      <img src="/dk-problems/images/mushikui/problems/00002.svg" class="o-problem-image" data-problem-image="00002" data-modal-title="SEND MORE MONEY（難易度：★★★）" alt="SEND MORE MONEY" data-link="#&lt;Middleman::Sitemap::Resource path=posts/2017-06-27.html&gt;" />
       <p><a href="/dk-problems/posts/2017/06/27.html">SEND MORE MONEYの解答</a></p>
     </div>
     <div class="o-problem ta-c column">
-      <img src="/dk-problems/images/mushikui/problems/00001.svg" class="o-problem-image" data-problem-image="00001" data-modal-title="初級編（難易度：★★）" alt="初級編" />
+      <img src="/dk-problems/images/mushikui/problems/00001.svg" class="o-problem-image" data-problem-image="00001" data-modal-title="初級編（難易度：★★）" alt="初級編" data-link="#&lt;Middleman::Sitemap::Resource path=posts/2017-06-25.html&gt;" />
       <p><a href="/dk-problems/posts/2017/06/25.html">初級編の解答</a></p>
     </div>
 </div>
@@ -76,13 +76,16 @@
 <script>
 $('[data-problem-image]').click(function(){
   $('.ui.modal').modal('show');
-  $('[data-mtitle]').text($(this).data('modal-title'))
-  $('[data-mimage]').attr("src", '/dk-problems/images/mushikui/problems/' + $(this).data('problem-image') + '.svg')
+  $('[data-mtitle]').text($(this).data('modal-title'));
+  $('[data-mimage]').attr('src', '/dk-problems/images/mushikui/problems/' + $(this).data('problem-image') + '.svg');
+  $('[data-href]').data('href', $(this).data('link'));
 });
 </script>
 
 <div class="ui modal">
-  <div class="header" ><span data-mtitle></span><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">シェア</a></div></div>
+  <div class="header" ><span data-mtitle></span>
+    <div class="fb-share-button" data-href="" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u&amp;src=sdkpreparse">シェア</a></div>
+  </div>
   <div class="ta-c mt20 pb40">
     <img src=""  data-mimage="" style="height: 300px; max-width: 100%;">
   </div>
