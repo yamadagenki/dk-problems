@@ -1,7 +1,7 @@
 <div class="ui doubling four column grid">
   <% page_articles.each_with_index do |article, i| %>
     <div class="o-problem ta-c column">
-      <%= image_tag "#{article.data.type}/problems/#{article.data.problem}.svg", class: "o-problem-image", "data-problem-image": "00001", "data-modal-title": "#{article.title}（難易度：#{article.data.difficulty}）", alt: article.title %>
+      <%= image_tag "#{article.data.type}/problems/#{article.data.problem}.svg", class: "o-problem-image", "data-problem-image": article.data.problem, "data-modal-title": "#{article.title}（難易度：#{article.data.difficulty}）", alt: article.title %>
       <p><%= link_to "#{article.title}の解答", article %></p>
     </div>
   <% end %>
