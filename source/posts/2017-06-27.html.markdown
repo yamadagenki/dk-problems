@@ -1,0 +1,12 @@
+---
+title: SEND MORE MONEY
+date: 2017-06-27
+tags: 虫食い算
+type: mushikui
+problem: "00002"
+difficulty: ★★★
+---
+
+<div class="ta-c">
+  <img src="/dk-problems/images/mushikui/answers/00002.svg">
+</div>
