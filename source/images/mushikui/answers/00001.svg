@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="270px" height="306px" viewBox="0 0 270 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+<svg width="220px" height="306px" viewBox="0 0 220 306" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
@@ -7,78 +7,73 @@
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard">
             <g id="Group" transform="translate(20.000000, 20.000000)">
-                <g id="number" transform="translate(120.000000, 0.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(70.000000, 0.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">2</tspan>
                     </text>
                 </g>
-                <g id="number" transform="translate(171.000000, 51.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(121.000000, 51.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">5</tspan>
                     </text>
                 </g>
-                <g id="number" transform="translate(120.000000, 114.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(70.000000, 114.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">0</tspan>
                     </text>
                 </g>
-                <g id="number" transform="translate(120.000000, 164.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(70.000000, 164.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">3</tspan>
                     </text>
                 </g>
-                <g id="number" transform="translate(171.000000, 226.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(121.000000, 226.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                    <text id="1">
+                        <tspan x="8" y="34">5</tspan>
+                    </text>
+                </g>
+                <g id="number" transform="translate(21.000000, 226.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                    <text id="1">
+                        <tspan x="8" y="34">7</tspan>
+                    </text>
+                </g>
+                <g id="number" transform="translate(20.000000, 114.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                    <text id="1">
+                        <tspan x="8" y="34">1</tspan>
+                    </text>
+                </g>
+                <g id="number" transform="translate(120.000000, 1.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                    <text id="1">
+                        <tspan x="8" y="34">1</tspan>
+                    </text>
+                </g>
+                <g id="number" transform="translate(120.000000, 114.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">5</tspan>
                     </text>
                 </g>
                 <g id="number" transform="translate(71.000000, 226.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
-                        <tspan x="8" y="34">7</tspan>
-                    </text>
-                </g>
-                <g id="number" transform="translate(70.000000, 114.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                    <text id="1">
-                        <tspan x="8" y="34">1</tspan>
-                    </text>
-                </g>
-                <g id="number" transform="translate(170.000000, 1.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                    <text id="1">
-                        <tspan x="8" y="34">1</tspan>
-                    </text>
-                </g>
-                <g id="number" transform="translate(170.000000, 114.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                    <text id="1">
-                        <tspan x="8" y="34">5</tspan>
-                    </text>
-                </g>
-                <g id="number" transform="translate(121.000000, 226.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
-                    <text id="1">
                         <tspan x="8" y="34">3</tspan>
                     </text>
                 </g>
-                <g id="number" transform="translate(70.000000, 164.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(20.000000, 164.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">6</tspan>
                     </text>
                 </g>
-                <g id="number" transform="translate(121.000000, 51.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
+                <g id="number" transform="translate(71.000000, 51.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.22222209" fill="#3C4858" font-weight="bold">
                     <text id="1">
                         <tspan x="8" y="34">3</tspan>
                     </text>
                 </g>
-                <g id="x" transform="translate(71.000000, 51.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.222222" fill="#3C4858" font-weight="bold">
+                <g id="x" transform="translate(21.000000, 51.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.222222" fill="#3C4858" font-weight="bold">
                     <text id="×">
                         <tspan x="9" y="38">×</tspan>
                     </text>
                 </g>
-                <g id="x" transform="translate(20.000000, 164.000000)" font-size="40" font-family="Arial-BoldMT, Arial" letter-spacing="2.222222" fill="#3C4858" font-weight="bold">
-                    <text id="×">
-                        <tspan x="9" y="38">+</tspan>
-                    </text>
-                </g>
-                <path d="M50,103 L230,103" id="Line" stroke="#979797" stroke-linecap="square"></path>
-                <path d="M0,215 L230,215" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M0,103 L180,103" id="Line" stroke="#979797" stroke-linecap="square"></path>
+                <path d="M0,215 L180,215" id="Line" stroke="#979797" stroke-linecap="square"></path>
             </g>
         </g>
     </g>
