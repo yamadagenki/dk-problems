@@ -33,7 +33,16 @@
 
   </head>
   <body>
-    <div class="ui fixed inverted menu">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9&appId=328267090927916";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="ui fixed inverted menu">
   <div class="ui container">
     <a href="/dk-problems" class="header item">
       <img src="/dk-problems/images/dk_logo.svg" alt="Dk logo" />
@@ -65,7 +74,7 @@ $('[data-problem-image]').click(function(){
 </script>
 
 <div class="ui modal">
-  <div class="header" data-mtitle>Header</div>
+  <div class="header" ><span data-mtitle></span><div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse">シェア</a></div></div>
   <div class="ta-c mt20 pb40">
     <img src=""  data-mimage="" style="height: 300px; max-width: 100%;">
   </div>
