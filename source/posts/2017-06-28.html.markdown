@@ -1,0 +1,21 @@
+---
+title: 祝イチロー4257
+date: 2017-06-28
+tags: 虫食い算
+type: mushikui
+problem: "00003"
+difficulty: ★★★
+---
+
+## 問題
+
+<div class="ta-c mb50">
+  <img src="/dk-problems/images/mushikui/problems/00003.svg">
+</div>
+
+
+## 解答
+
+<div class="ta-c">
+  <img src="/dk-problems/images/mushikui/answers/00003.svg">
+</div>
