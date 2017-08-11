@@ -1,6 +1,6 @@
 ---
 title: カバンちゃんとサーバルちゃん
-date: 2017-08-12
+date: 2017-08-11
 tags: 虫食算
 type: mushikui
 problem: "00004"

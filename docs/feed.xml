@@ -5,16 +5,38 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-06-28T09:00:00+09:00</updated>
+  <updated>2017-08-11T09:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>カバンちゃんとサーバルちゃん</title>
+    <link rel="alternate" href="http://blog.url.com/dk-problems/posts/2017/08/11.html"/>
+    <id>http://blog.url.com/dk-problems/posts/2017/08/11.html</id>
+    <published>2017-08-11T09:00:00+09:00</published>
+    <updated>2017-08-12T01:05:23+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h2 id="section"&gt;問題&lt;/h2&gt;
+
+&lt;div class="ta-c mb50"&gt;
+  &lt;img src="/dk-problems/images/mushikui/problems/00004.svg" /&gt;
+&lt;/div&gt;
+
+&lt;h2 id="section-1"&gt;解答&lt;/h2&gt;
+
+&lt;div class="ta-c"&gt;
+  &lt;img src="/dk-problems/images/mushikui/answers/00004.svg" /&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <title>祝イチロー4257</title>
     <link rel="alternate" href="http://blog.url.com/dk-problems/posts/2017/06/28.html"/>
     <id>http://blog.url.com/dk-problems/posts/2017/06/28.html</id>
     <published>2017-06-28T09:00:00+09:00</published>
-    <updated>2017-08-11T23:26:13+09:00</updated>
+    <updated>2017-06-28T09:41:28+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -36,7 +58,7 @@
     <link rel="alternate" href="http://blog.url.com/dk-problems/posts/2017/06/27.html"/>
     <id>http://blog.url.com/dk-problems/posts/2017/06/27.html</id>
     <published>2017-06-27T09:00:00+09:00</published>
-    <updated>2017-08-11T23:26:13+09:00</updated>
+    <updated>2017-06-27T12:44:10+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -58,7 +80,7 @@
     <link rel="alternate" href="http://blog.url.com/dk-problems/posts/2017/06/25.html"/>
     <id>http://blog.url.com/dk-problems/posts/2017/06/25.html</id>
     <published>2017-06-25T09:00:00+09:00</published>
-    <updated>2017-08-11T23:26:13+09:00</updated>
+    <updated>2017-06-27T12:44:06+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
