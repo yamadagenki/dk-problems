@@ -1,0 +1,21 @@
+---
+title: カバンちゃんとサーバルちゃん
+date: 2017-08-12
+tags: 虫食算
+type: mushikui
+problem: "00004"
+difficulty: ★★★★★★★★★★★★
+---
+
+## 問題
+
+<div class="ta-c mb50">
+  <img src="/dk-problems/images/mushikui/problems/00004.svg">
+</div>
+
+
+## 解答
+
+<div class="ta-c">
+  <img src="/dk-problems/images/mushikui/answers/00004.svg">
+</div>
